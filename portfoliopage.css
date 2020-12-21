@@ -21,6 +21,12 @@ section h3 {
   border: 2px solid;
   background-color: white;
 }
+.bar {
+  width: 400px;
+}
+.progress {
+  width: 200px;
+}
 #classes {
   color: slateblue;
 }
