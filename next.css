@@ -16,6 +16,11 @@ header {
   padding: 20px;
   text-align: center; 
 }
+article {
+  height: 100%;
+  margin: 0px;
+  padding: 0;
+}
 .bar { 
   display: block;
   width: 20em;
