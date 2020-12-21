@@ -10,6 +10,11 @@ main {
   padding: 20px 20px;
   background-color: #eaeaea;
 }
+article {
+  margin: 0px;
+  height: 100%;
+  padding: 0;
+}
 section {
   padding: 20px;
   margin-bottom: 20px;
