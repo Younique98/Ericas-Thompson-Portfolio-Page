@@ -4,7 +4,7 @@ body{
   height: 100%;
   overflow: hidden;
   display: flex;
-  min-height: 100vh;
+ 
 }
 header {
   text-align: center;
