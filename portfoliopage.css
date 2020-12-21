@@ -30,4 +30,13 @@ section h3 {
 #classes > P > b, #ids li > b {
   color: goldenrod;
 }
-
+#inline * {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
+#block * {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
