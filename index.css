@@ -142,8 +142,8 @@ figure.hero {
     margin: 0;
 }
 figure.hero img {
-	-webkit-filter: blur(3px);
-	filter: blur(3px);
+/* 	-webkit-filter: blur(3px);
+	filter: blur(3px); */
     transform: scale(1.03);
 }
 figure.hero figcaption{
