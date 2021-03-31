@@ -36,3 +36,12 @@ article {
   height: 100%;
   background-color: tomato;
 }
+
+form input, textarea {
+  margin: 10px 0;
+  border: 0;
+  background-color: lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  width: 420px
+}
