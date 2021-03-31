@@ -123,7 +123,7 @@ nav a:hover {
 
 .center section {
     flex: 1 1 auto;
-/*     overflow-y: auto; */
+    overflow-y: auto;
 }
 
 header {
@@ -202,7 +202,7 @@ footer {
     background-color: var(--second-color);
     flex: 0 0 80px;
     flex-direction: row;
-    padding: 40px 0px;
+/*     padding: 40px 0px; */
     /* min-height: 80px; */
 }
 footer section:first-child {
@@ -265,7 +265,7 @@ form textarea {
 }
 
 main {
-    min-height: 500px;
+    min-height: 700px;
 }
 article {
     display: grid;
@@ -385,4 +385,12 @@ pre > code {
 .box {
 	border: 2px solid;
 	background-color: white;
+	height: 160px
+}
+
+section#block{
+	background-color: light blue
+}
+secton#inline{
+	background-color: light blue
 }
