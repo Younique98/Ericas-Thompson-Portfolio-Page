@@ -251,6 +251,13 @@ form input[type=submit] {
     background-color: var(--first-color);
 }
 
+element.style {
+	margin-top: 1px;
+	margin-bottom: 10px;
+	height: 81px;
+	width: 730px
+}
+
 form textarea {
     min-height: 60px;
     max-height: 100px;
